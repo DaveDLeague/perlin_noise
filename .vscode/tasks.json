@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "win_build",
+            "type": "shell",
+            "command": "\"C:/Program Files (x86)/Google/Chrome/Application/chrome\" -f C:/Users/Dave/Desktop/perlin_noise/index.html",
+        }
+    ]
+}
